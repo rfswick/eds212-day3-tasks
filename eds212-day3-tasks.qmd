@@ -1,0 +1,19 @@
+---
+title: "EDS Day3 Tasks"
+author: "Rachel Swick"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+vec_a <- c(1, 6)
+vec_b <- c(2, 4)
+
+vec_a + vec_b
+vec_b - vec_a
+2 %*% vec_a
+vec_a %*% vec_b
+```
+
